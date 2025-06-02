@@ -1,0 +1,52 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm ci
+      
+    - name: Build
+      run: npm run build
+      
+    - name: Verify CNAME file exists
+      run: |
+        if [ -f "dist/CNAME" ]; then
+          echo "CNAME file found in dist/"
+          cat dist/CNAME
+        else
+          echo "Warning: CNAME file not found in dist/"
+          # CNAME 파일이 없다면 public에서 복사
+          if [ -f "public/CNAME" ]; then
+            cp public/CNAME dist/CNAME
+            echo "CNAME file copied from public/ to dist/"
+          fi
+        fi
+        
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      if: github.ref == 'refs/heads/main'
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./dist
+        # CNAME 파일을 유지하도록 설정
+        keep_files: false
+        # 커스텀 도메인 설정 (CNAME 파일 기반)
+        cname: 4b-letters.com 
