@@ -464,6 +464,221 @@ Team 4B는 **"No idea, why plan more? It's good enough."** 이라는 슬로건 �
 앞으로의 뉴스레터를 통해 저희의 활동을 하나하나 기록해서 보여드릴게요. 예쁘게 지켜봐주세요!
     `
   },
+  {
+    id: '4',
+    title: '💁🏻‍♂️ Team 4B 의 소중한 첫 고객. `재훈님` 인터뷰',
+    excerpt: '재훈님과 함께하는 뻔액션 사업가 챌린지 후기',
+    publishedAt: '2025년 6월 8일',
+    readTime: '3분 읽기',
+    content: `  
+<h1 style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">👨🏻‍💻 뻔+액션 챌린지. Persona가 아닌 실제 고객을 만났습니다.</h1>
+<img src="https://www.notion.so/image/attachment%3Aa9488fb3-5b71-42d7-916b-01b627b122f5%3Apersona.jpg?table=block&id=20d2ed0c-a0b9-80fe-a30b-d671da0873b7&spaceId=744a4166-fe9a-4f39-afd7-679d3a375738&width=1250&userId=&cache=v2" class="w-full h-full object-cover" />
+<div style="background-color: #f0f0f0; padding: 16px; border-radius: 5px;">
+“Team 4B”의 첫 번째 프로젝트인 뻔+액션 챌린지는 홍보 과정에서 얻은 유저 피드백과 팀 내부 회고를 통해
+
+서비스 디벨롭이 필요하다고 판단하여 잠시 멈춰가기로 결정 했는데요. 
+
+아직 뻔+액션 챌린지 후기를 읽지 못한 투자자 분들께서는 [이 글](https://4b.divevibe.shop/article/2)을 먼저 읽고 오시길 권해드립니다 :)
+</div>
+
+---
+## 🌟 Highlight
+<div style="display: flex; gap: 10px;">
+    <div style="width: 50%; display: flex; flex-direction: column; gap: 6px;">
+      <h4>🤷‍♂️ 첫 고객 재훈님은 이런 사람이었어요.</h4>
+      <div>1. 비전공자 → 1인 개발자로 성장 중</div>
+      <div>2. 이직에 어려움을 겪고 있음</div>
+      <div>3. 창업가 마인드셋 관심 많음</div>
+      <div>4. 웹 서비스 개발→ 배포 경험 보유</div>
+      <div>5. 성장을 위해 돈을 아끼지 않음</div>
+      <div>6. 스타트업 생태계 커뮤니티 원함</div>
+      <div>7. 무보수로 일할 생각도 있음</div>
+    </div>
+    <div style="width: 50%; display: flex; flex-direction: column; gap: 6px;">
+      <h4>🚀 우리는 이런 점을 배웠어요.</h4>
+      <div>1. 기획 의도가 명확해야 한다.</div>
+      <div>2. 갖춰지지 않아도 수요를 검증할 수 있다.</div>
+      <div>3. 페르소나와 진짜 고객의 모습은 다를 수 있다.</div>
+      <div>4. 그러므로, 첫 번째 고객을 빨리 만나자.</div>
+      <div>5. 이미 수요가 검증된 시장의 힘</div>
+      <div>6. 고객들은 소통을 원한다.</div>
+      <div>7. 진정성 + 잘하는 것 + 시장 수요 → 사업</div>
+    </div>
+</div>
+
+---
+
+# 💌 첫 고객과의 만남. 그리고 아이스 브레이킹.
+
+## Q. 안녕하세요. 재훈님. 흔쾌히 인터뷰에 응해주셔서 감사합니다.☺️ 간단하게 팀원들에게 자기 소개를 부탁드려도 될까요?
+<div style="background-color: #f0f0f0; padding: 16px; border-radius: 5px;">
+안녕하세요. 정재훈이라고 합니다.
+
+저는 부동산 개발 회사에 다니고 있는데요.
+
+수직적인 조직 문화가 싫어 IT 업계로 업종 변경을 희망하고 있습니다. 
+
+그 동안 혼자 코딩 공부를 해왔는데요.
+
+<span style="font-weight: bold; background-color: #FFF9C4; padding-block: 4px;">
+  최근 '1인 개발자', '노마드 코더' 등의 키워드가 이슈이다 보니
+</span>
+
+<span style="font-weight: bold; background-color: #FFF9C4; padding-block: 4px;">
+  앞으로 어떻게 개발 일을 해나가야 할까? 방향성에 대해 고민하고 있어요.
+</span>
+
+<span style="font-weight: bold; background-color: #FFF9C4; padding-block: 4px;">
+  아무래도 나이가 있고 개발 관련 전공을 하지 않아서
+</span>
+
+<span style="font-weight: bold; background-color: #FFF9C4; padding-block: 4px;">
+  취업 보다는 창업에 관심있는 상황입니다.
+</span>
+
+최근에는 회사에 마음이 뜬 상태라 업무 시간에도
+
+웹 개발을 공부하고 있습니다. 
+
+마음에 안들면 퇴사하라고 하시지 않을까요? (화끈)
+</div>
+
+---
+
+## Q. 다른 분야에서 근무 하시면서 코딩을 독학하고 계시다니 대단 한데요? 서비스를 개발해 보신 경험이 있으신 건가요?? 
+<div style="background-color: #f0f0f0; padding: 16px; border-radius: 5px;">
+대단한 건 아니지만, <span style="font-weight: bold; background-color: #FFF9C4; padding: 4px;">웹 개발을 통해 배포까지 시도 해본 적이 있습니다.</span>
+
+제미나이와 커서를 활용해 만들었는데요. 프레임워크는 Svelte, 배포는 Vercel, DB는 Supabse를 사용했어요.
+
+제가 수영 강사 일도 함께 하고 있는데요. <span style="font-weight: bold; background-color: #FFF9C4; padding: 4px;">수강생들을 가르치다 보니, 수영을 비롯한 생활 체육인들이 여러 대회를 참가하고 싶어 하고, 자신이 성장하고 있는지 알고 싶어 한다고 느꼈습니다.</span>
+
+<span style="font-weight: bold; background-color: #FFF9C4; padding-block: 4px;">
+  그래서 생활 체육 대회 기록을 검색하고 작년 기록과 비교할 수 있는 사이트를 만들어 봤어요.
+</span>
+
+이 과정에서 홍보와 아키텍쳐 기능 개선에 어려움을 많이 느꼈습니다. 
+
+현재는 웹사이트를 닫아 둔 상태입니다.
+</div>
+
+---
+
+# 🏋🏻‍♂️ 뻔+액션 챌린지. 실제 고객은 무엇을 원했을까?
+<img src="https://www.notion.so/image/attachment%3Ad52895f4-540e-4ebd-8cb1-a5c170d867d3%3AScreenshot_2025-06-08_at_10.39.20_PM.png?table=block&id=20d2ed0c-a0b9-80c3-85dd-ceaa0b36ef62&spaceId=744a4166-fe9a-4f39-afd7-679d3a375738&width=1420&userId=&cache=v2" class="w-full h-full object-cover" />
+
+## Q. ‘뻔+액션 챌린지는 예비 창업가의 행동력을 위한 챌린지’로 기획 되었는데요. 재훈님은 챌린지를 통해 어떤 부분을 얻고 싶으셨어요?
+
+<div style="background-color: #f0f0f0; padding: 16px; border-radius: 5px;">
+개발자로 취업이 어렵다 보니, 자연스럽게 창업에 관심이 생겼는데요.
+
+<span style="font-weight: bold; background-color: #FFF9C4; padding-block: 4px;">
+  스타트업에서 일하는 사람들과의 커넥션이 없어, 늘 일하는 방식에 대해 궁금했습니다.
+</span>
+
+<span style="font-weight: bold; background-color: #FFF9C4; padding-block: 4px;">
+  그러다 보니, ‘창업을 하기 위해서는 이렇게 하세요.’ 하는 가이드 라인만 알 수 있어도
+</span>
+
+<span style="font-weight: bold; background-color: #FFF9C4; padding-block: 4px;">
+  저 같은 비전공자에게는 큰 도움이 될 거라고 생각했어요.
+</span>
+
+<br />
+<br />
+
+예를 들어, 기획자, 디자이너, 개발자 나눠서 분업을 할 때의 PRD(제품 요구사항 정의서) 
+
+작성 방식이나 아이디에이션을 하는 방식 같은 것도요.
+
+뭔가 일하는 방식에 대해 제대로 알고 싶다는 생각을 했던 것 같아요.
+</div>
+
+## Q. 구체적으로 챌린지 소개글을 읽고 마음에 들었던 부분에 대해 말씀 해주실 수 있을까요?
+
+<div style="background-color: #f0f0f0; padding: 16px; border-radius: 5px;">
+제가 가장 끌렸던 부분은 예비 창업가들을 위한 창업가 마인드셋을 기를 수 있다는 부분이었어요.
+
+<span style="font-weight: bold; background-color: #FFF9C4; padding-block: 4px;">
+  아무래도 저와 같이 비전공자, 스타트업 근무 경험이 없는 입장에서 1인 개발자나 노마드 코더로 살아가기 위해서는
+</span>
+
+<span style="font-weight: bold; background-color: #FFF9C4; padding-block: 4px;">
+  창업가 마인드셋 같은 소프트 스킬이 필수적이라고 생각했습니다.
+</span>
+
+<br />
+<br />
+
+먼저 말씀드렸던 실무자들의 업무 방식 등에 대한 궁금증은 제 개인적인 궁금증이었던 것 같아요. 
+
+그리고 챌린지를 완수 했을 때, **48시간 사업아이템 검증 서비스**를 이용할 수 있도록 해주신다고 하셨는데
+
+그 과정을 옆에서 지켜보는 것이 도움이 될 거라고 생각했고요. **10만원 상당의 전자책**을 제공해주시는 부분도 
+
+마음에 들었습니다.
+</div>
+
+## Q. 시장에 창업과 관련한 다양한 교육 프로그램이 있잖아요. 혹시 관심 가지셨던 프로그램이 있을까요?
+
+<div style="background-color: #f0f0f0; padding: 16px; border-radius: 5px;">
+1인 개발을 통해 수익을 낸 코더가 진행하는 교육 프로그램에 참여한 적이 있습니다. 
+
+광고부터 개발까지 올 인원으로 가르쳐 주는 프로그램이었어요. 
+
+<span style="font-weight: bold; background-color: #FFF9C4; padding-block: 4px;">
+  하지만, 저 같은 개발자들에게는 ‘창업가의 마인드셋’이라는 키워드가 더 끌렸을 것 같아요.
+</span>
+
+<span style="font-weight: bold; background-color: #FFF9C4; padding-block: 4px;">
+  평소에 IT 업계에 아는 사람이 한 명도 없다는 점이 너무 아쉬운데요.
+</span>
+
+<span style="font-weight: bold; background-color: #FFF9C4; padding-block: 4px;">
+  이런 가벼운 프로그램을 통해 소통할 수 있는 인맥들을 만들고 싶다는 생각도 했습니다.
+</span>
+
+<br />
+<br />
+
+아 참. 그리고 이전에 국비 지원 프로그램을 통해 개발에 입문하게 되었어요.
+</div>
+
+## Q. 재훈님은 블로그를 통해 결제 및 구매 인증을 해주셨는데, 이 과정에서 불편했던 점은 없으셨나요? 그리고 마지막으로 궁금한 점이나 하고 싶은 말씀이 있으실까요? 
+
+<div style="background-color: #f0f0f0; padding: 16px; border-radius: 5px;">
+저의 개인적인 성향인 것 같은데요. 
+
+<span style="font-weight: bold; background-color: #FFF9C4; padding-block: 4px;">
+  저는 무언가 마음에 드는 제품이나 서비스가 있으면
+</span>
+
+<span style="font-weight: bold; background-color: #FFF9C4; padding-block: 4px;">
+  UI, UX에는 큰 고민을 하지 않고 결제를 하는 편입니다. 😂
+</span>
+
+그리고 저는 성장을 하고 싶습니다. 
+
+<span style="font-weight: bold; background-color: #FFF9C4; padding-block: 4px;">
+  보수와 관계없이 개발 업무가 필요 하시다면
+</span>
+
+<span style="font-weight: bold; background-color: #FFF9C4; padding-block: 4px;">
+  편하게 연락주세요. 최선을 다해 도움이 되도록 하겠습니다.
+</span>
+
+<span style="font-weight: bold; background-color: #FFF9C4; padding-block: 4px;">
+  그리고 뻔+액션 챌린지가 재오픈하게 된다면 꼭 연락 주세요.
+</span>
+
+인연이 지속 되었으면 좋겠습니다.
+
+감사합니다.
+</div>
+
+
+    `,
+  },
 ];
 
 export default articles;
