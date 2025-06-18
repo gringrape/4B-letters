@@ -743,6 +743,165 @@ B2C로 실물 제품을 하나 판매한다는것이 굉장히 어려울 수 있
 부족한 점도 있었어요. 확장이나 판매만을 생각하다보니 애초에 누구를 만족시키려고 판매하기 시작한 양말이었지?라는 의문이 들었어요. 실제 세상과의 접점을 만들어내면서 타겟 고객과 매력적인 상품, 매력적인 전달 방식에 대해서 다시 고민하는 과정이 필요하다는 생각을 했습니다.
     `
   },
+  {
+    id: '7',
+    title: '🧦 양말 공장에 찾아갔다구요? 갑자기요?',
+    excerpt: '양말 판매 여정 그 두번째 이야기',
+    publishedAt: '2025년 6월 13일',
+    readTime: '5분 읽기',
+    content: `
+<h1 style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+🏭 구매처를 탐색했으니 이제 공급처를 탐색해보자
+</h1>
+<img src="https://www.notion.so/image/attachment%3A739cbba6-dc22-4dd8-9319-de58c15f9acc%3AE2EF8A03-3573-446B-928C-F8B22D512C66_1_105_c.jpeg?table=block&id=2162ed0c-a0b9-8010-b6c2-d12ed19da3d0&spaceId=744a4166-fe9a-4f39-afd7-679d3a375738&width=1420&userId=&cache=v2" class="w-full h-full object-cover" />          
+
+# 💌 마라톤 행사 리턴 메일은 우리를 설레게 했다.
+
+## Q. 양말 공장을 찾아 가셨다고요? 갑자기요?
+<div style="background-color: #f0f0f0; padding: 16px; border-radius: 5px;">
+48시간 안에 양말을 판매하기 위해, 다양한 고민 끝에 저희 팀은 <span style="font-weight: bold; text-decoration: underline; text-underline-offset: 4px;">B2C로 양말을 판매하는 것이 더 난이도가 높다고 판단했어요. 지금 생각해보면 당연한 것이 저희 팀은 제품 없는 제품을 판매하고 있었거든요. (웃음)</span>
+
+<br />
+<br />
+
+요즘에는 제품이 아무리 좋아도 브랜딩이 덜 되어 있으면 의류나 소매품이 관심을 얻기 조차 힘든데, 저희는 48시간 이내에 이 문제를 해결하려니 도저히 답이 보이지 않았어요. 
+
+그래서 시작했던게 B2B 세일즈입니다. 다행히, 마라톤 행사를 주최하는 회사에서 리턴 메일을 받기도 했고요. 
+
+무려, 올 하반기 3개의 마라톤 행사 개최를 계획하고 있는 곳이었습니다. 
+
+<span style="font-weight: bold; text-decoration: underline; text-underline-offset: 4px;">제품의 샘플과 견적을 요청 받았어요. 양말에 대해서 아무것도 모르는 상태에서 말이죠.</span> 
+
+빠르게 공급처를 확보해야 했습니다. 마라톤 행사대회다 보니, 아무 양말이나 제안하고 싶지 않았어요. 
+
+기술력 있는 양말을 제공하고 그 이야기를 바탕으로 제품의 브랜딩을 한다면 향후 B2C로도 판매가 가능할 것이라고 생각했죠. 
+
+저희는 빠른 시간 안에 갖가지 방법을 동원하여 공급처를 찾아 나섰습니다.
+
+<span style="font-weight: bold; text-decoration: underline; text-underline-offset: 4px; background-color: #F5F5DC; padding: 1px; border-radius: 5px;">
+그렇게 찾은 두 개의 업체에 당장 다음 날에 방문하기로 결정했죠.
+</span> 😂
+</div>
+
+## Q. 굉장히 빠른 사업 전개인데요? 흥미로워요. 첫 번째 공장 이야기 좀 해주세요.
+<div style="display: flex; gap: 16px;">
+    <img src="https://www.notion.so/image/attachment%3Abe090ddc-0b1f-4b90-99ce-341779e9a5e6%3A902B6E27-65D0-40F7-8F67-572D16D5025B_1_105_c.jpeg?table=block&id=2162ed0c-a0b9-80d9-8519-f4f20c51f8ee&spaceId=744a4166-fe9a-4f39-afd7-679d3a375738&width=570&userId=&cache=v2" class="w-1/2 h-full object-cover" />
+    <img src="https://www.notion.so/image/attachment%3A2b472106-89ae-49d6-990f-55cf3287b248%3A3BA68721-88D7-422D-8610-38DABB430C9D_1_102_o.jpeg?table=block&id=2162ed0c-a0b9-8088-9424-f019bcb8bbfc&spaceId=744a4166-fe9a-4f39-afd7-679d3a375738&width=570&userId=&cache=v2" class="w-1/2 h-full object-cover" />
+</div>
+<div style="background-color: #f0f0f0; padding: 16px; border-radius: 5px;">
+<span style="font-weight: bold; text-decoration: underline; text-underline-offset: 4px; padding: 1px; border-radius: 5px;">
+첫 번째 공장은 인천에 있는 스포츠 양말 전문 제조 회사였습니다.
+</span> 
+
+미팅 당일 아침. 회사명과 명함도 없던 저희 팀은 부랴부랴 명함을 만들었어요. 
+
+(새벽부터 명함, 제안서 출력을 위해 애써주신 덕수님께 감사. 🙌🏻)
+
+그렇게 얼렁뚱땅 ‘Team 4B’의 막무가내 첫 미팅이 시작됐습니다.
+
+<span style="font-weight: bold; text-decoration: underline; text-underline-offset: 4px; padding: 1px; border-radius: 5px;">
+양말 공장 대표님과 인사를 나누고 저희는 양말 제조 프로세스에 관해 솔직하게 모른다고 말씀드렸어요.
+</span> 
+
+<span style="font-weight: bold; text-decoration: underline; text-underline-offset: 4px; padding: 1px; border-radius: 5px;">
+대신 대량 구매를 원하는 구매처와 세일즈 단계의 일들을 해결해 드릴 수 있다는 식으로 접근했죠.
+</span> 
+
+<span style="font-weight: bold; text-decoration: underline; text-underline-offset: 4px; padding: 1px; border-radius: 5px;">
+뉴스레터를 쓰며 다시 돌아보니 매우 용감한 접근이었네요.(웃음)
+</span>
+
+저희의 솔직함에 마음이 열리셨는지, 대표님께서 정말 많은 인사이트를 나눠주셨습니다.
+
+정말 운이 좋게도, 이 회사에서는 ‘국가대표 양말’로 브랜딩하고 있는 스포츠 삭스 전문 브랜드를 초기부터 컨설팅 해주신 경험이 있더라고요? 아쉽게도 최근, 결제 문제로 트러블이 생겨 양말 제작과 공급을 중단 하셨다고 하셨지만요. 
+
+저희는 속으로 아주 기뻤습니다. 기회가 보이는 듯 했어요. 이미 스포츠 삭스 제작 기술력이 확보된 회사구나. 
+
+<span style="font-weight: bold; text-decoration: underline; text-underline-offset: 4px; background-color: #F5F5DC; padding: 1px; border-radius: 5px;">
+구매처만 연결시켜 드리면 되겠다는 생각이 스쳤습니다. 😲
+</span>
+</div>
+
+## Q. 세분 모두 의류, 섬유 도메인은 처음 아니세요? 두렵지는 않으셨나요?
+<div style="background-color: #f0f0f0; padding: 16px; border-radius: 5px;">
+두려움 보다는 이렇게도 연결이 되는구나? 싶은 생각에 한껏 고양되어 있었던 것 같아요. 😆
+
+<span style="font-weight: bold; text-decoration: underline; text-underline-offset: 4px; padding: 1px; border-radius: 5px; background-color: #F5F5DC;">
+그리고 대표님 말씀을 듣다 보니, 오히려 본인이 갖고 계신 노하우나 기술력을 더 알려주고 싶어 하신다는 마음까지 들었습니다. 저희 팀은 그냥 부딪혀 봤을 뿐인데 이런 뜻밖의 도움과 기회들이 펼쳐진거죠. 정말 신기했어요.
+</span>
+
+<br />
+<br />
+
+이에 더해 한국 양말 비즈니스의 문제점도 파악하게 되었어요. 많은 전통 산업 분야가 어려운 상황에 쳐해 있겠지만 양말 제조 공장도 <span style="font-weight: bold; text-decoration: underline; text-underline-offset: 4px; padding: 1px; border-radius: 5px;">중국과 동남아시아 국가들의 저렴한 인건비에 단가 경쟁에서 어려움</span>을 겪고 있었죠.
+
+물론, 기술력은 국내 공장들이 뛰어나다고 하셨어요. 특히, 원단이나 염색 부분에서 국내 기술력이 압도적이라는 것도 알게 되었죠. 
+
+하지만, 우리 모두 나이키 양말을 신어봤잖아요? 비싼 가격에 구매했지만 세탁기 몇 번 돌리면 망가지는 제품이죠.
+
+분명히 경쟁력이 있는데….
+
+<span style="font-weight: bold; text-decoration: underline; text-underline-offset: 4px; padding: 1px; border-radius: 5px;">
+소모적인 단가 경쟁에서 벗어나기 위해서는 어떻게 해야 할까? 라는 고민이 생겼던 것 같아요.
+</span>
+</div>
+
+## Q. 서울시 양말제조지원센터라는 곳이 있어요? 재밌는데요?
+<img src="https://www.notion.so/image/attachment%3Aa4c5180b-985d-49d0-887c-5ce40f1089e1%3AC8E54A1A-C6BD-4F6A-A68D-F731B69CF6D6_1_105_c.jpeg?table=block&id=2162ed0c-a0b9-804c-9202-f31c1d436301&spaceId=744a4166-fe9a-4f39-afd7-679d3a375738&width=1420&userId=&cache=v2" class="w-full object-cover" />
+<div style="background-color: #f0f0f0; padding: 16px; border-radius: 5px;">
+저희는 첫 번째 공장 미팅을 마치고, 샘플 양말을 한 가득 챙겨 두 번째 미팅 장소로 향했습니다. ㅎㅎ
+
+양말 공장 리서치 과정에서 서울시에서 양말 공장들을 위한 지원사업을 하고 있다는 사실을 발견했어요. 
+
+방금 말씀 드린 타국과 단가 경쟁에서 어려움을 겪고 있어, 양말 공장들이 모여 있는 서울 도봉구에서 공장들을 지원하고 있는 사업이었습니다. 
+
+<span style="font-weight: bold; text-decoration: underline; text-underline-offset: 4px; padding: 1px; border-radius: 5px; background-color: #F5F5DC;">
+서울시에서도 관심을 갖고 있는 사업인만큼, 나중에는 B2G로 비즈니스를 해볼 수도 있겠다는 생각을 했습니다. (커밍쑨)
+</span>
+
+<br />
+<br />
+
+두 번째 미팅을 통해서는 현재 양말 제조공장들의 어려움은 무엇인지, 다양한 브랜드들이 어떤 식으로 양말 비즈니스를 하고 있는지, 마케팅, 브랜딩에 관한 이야기를 많이 나눴습니다. 
+
+처음에는 저희가 너무 ‘초짜’처럼 보였는지 대표님께서 경계를 하신다고 느껴졌는데, 마지막에는 샘플 제작실에서 양말을 짜는 과정까지 구경시켜 주셨어요. ㅎㅎ 정말 좋은 경험이었습니다. 
+
+양말지원센터와 협업을 통해 만들어진 브랜드들을 알게 되니, <span style="font-weight: bold; text-decoration: underline; text-underline-offset: 4px; padding: 1px; border-radius: 5px; background-color: #F5F5DC;">우리도 할 수 있겠는데?</span> 하는 자신감까지 생겼어요 😊
+</div>
+
+<img src="https://www.notion.so/image/attachment%3Ace724e15-99b5-4cf2-9df8-15637128ed3e%3A8A7139C0-662A-4F29-AF49-CE8E0CF40A18_1_105_c.jpeg?table=block&id=2162ed0c-a0b9-80da-bd60-da9ec8805d46&spaceId=744a4166-fe9a-4f39-afd7-679d3a375738&width=1420&userId=&cache=v2" class="w-full h-full object-cover" />
+
+## Q. 불과 일주일만에 일어난 일이란게 믿기지 않는데요? 마지막으로 느낀 점을 말해주세요.
+<div style="background-color: #f0f0f0; padding: 16px; border-radius: 5px;">
+<span style="font-weight: bold; text-decoration: underline; text-underline-offset: 4px; padding: 1px; border-radius: 5px; background-color: #F5F5DC;">
+결국, 가장 중요한 레슨 런은 ‘행동’을 통해 생겨났어요.
+</span> 
+
+조금은 막무가내로 시작했지만, <span style="font-weight: bold; text-decoration: underline; text-underline-offset: 4px; padding: 1px; border-radius: 5px;">결국 사업은 정해진 프레임워크가 중요한 것이 아니라, 다양한 시도와 그를 통한 성장이 핵심인 것 같다고 온 몸으로 느꼈습니다.</span> 이 배움이 저희 팀원 모두를 단 시간에 <span style="font-weight: bold; text-decoration: underline; text-underline-offset: 4px; padding: 1px; border-radius: 5px;">다음 레벨로 성장</span>시켜 준 것 같아요. 
+
+반대로 생각할 거리도 많아졌어요. 
+
+우리는 왜 양말을 팔려고 하는가? Team 4B는 어떤 사업을 하기 위해 모였을까? 같은 고민이었죠.
+
+그래서 공장 미팅을 마친 후 회고 과정을 가졌습니다. 저희는 이런 이야기를 나눴어요.
+
+<span style="font-weight: bold; text-decoration: underline; text-underline-offset: 4px; padding: 1px; border-radius: 5px; background-color: #F5F5DC;">
+결국, 비즈니스는 ‘연결’이 핵심인 것 같다.
+</span> 
+
+아무 지식과 제품도 없이 고객이 무엇을 원하는지, 공급처, 구매처가 어떤 일들을 겪고 있는지 궁금해 했을 뿐인데, 어느 정도 비즈니스적 형태를 갖게 된 것을 보면 연결이 갖는 힘이 대단하다는 생각을 했죠.
+
+<span style="font-weight: bold; text-decoration: underline; text-underline-offset: 4px; padding: 1px; border-radius: 5px;">
+양말 비즈니스도 같은 맥락에서 전통적인 산업 분야에 현대적인 마케팅 세일즈 기법을 연결하는 일 아닐까?
+</span>
+
+우리가 어젯 밤에 급히 만든 회사 이름 ‘21세기 당나귀들’도 의외성(행동)에서 비롯되는 경험을 통한 연결들을 상징하는 것 아닐까? 하는 생각을 나눴어요. 조금 더 방향성을 갖게 된거죠. 
+
+양말 공장 미팅은 정말 즐거운 경험이었습니다. 이를 통해 실제 매출까지 발생했으면 ‘더욱’ 좋겠네요. 🔥
+</div>
+
+    `,
+  },
 ];
 
 export default articles;
