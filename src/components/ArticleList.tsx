@@ -1,8 +1,18 @@
+import { useEffect, useState } from 'react';
+
 import ArticleCard from './ArticleCard';
 
-import articles from '@/data/articles';
+import loadArticles from '../service/loadArticles';
 
 const ArticleList = () => {
+  const [articles, setArticles] = useState([]);
+
+  useEffect(() => {
+    loadArticles().then((data) => {
+      setArticles(data);
+    });
+  });
+  
   return (
     <div className="space-y-6">
       {articles.reverse().map((article, index) => (
