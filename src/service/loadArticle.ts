@@ -7,8 +7,6 @@ export default async function loadArticle(id: string) {
     .eq('id', id)
     .single();
 
-  console.log(data);
-
   if (error) {
     console.error('Error loading article from Supabase:', error);
     console.log(error.message);
