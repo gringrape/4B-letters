@@ -4,13 +4,23 @@ import { useParams, Link } from 'react-router-dom';
 import Header from '../components/Header';
 
 import { marked } from 'marked';
+import { useEffect, useState } from 'react';
 
-import articles from '@/data/articles';
+import loadArticle from '@/service/loadArticle';
+
 
 const ArticleDetail = () => {
   const { id } = useParams<{ id: string }>();
 
-  const article = articles.find(article => article.id === id);
+  const [article, setArticle] = useState(null);
+
+  useEffect(() => {
+    const fetchArticle = async () => {
+      const article = await loadArticle(id);
+      setArticle(article);
+    };
+    fetchArticle();
+  }, [id]);
 
   if (!article) {
     return (
